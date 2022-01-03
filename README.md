@@ -3,7 +3,7 @@ Predict whether the cancer is benign or malignant using Python & Machine learnin
 (3 models: logistic regression, decision tree and random forest)   
 
 ## Dataset
-[Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+[Breast Cancer Wisconsin (Diagnostic) Dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
 ## Results
 Logistic Regression Accuracy = 0.99061  
