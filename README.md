@@ -1,4 +1,4 @@
-# Breast-Cancer-Detector
+# Breast Cancer Detection
 Predict whether the cancer is benign or malignant using Python & Machine learning  
 (3 models: logistic regression, decision tree and random forest)   
 
